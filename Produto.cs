@@ -51,11 +51,11 @@ namespace EstoqueTv
         {
             return _nome
             + ", $ "
-            + _preco.ToString("F2", CultureInfo.InvariantCulture)
+            + _preco.ToString("C", CultureInfo.CurrentCulture)
             + ", "
             + _quantidade
             + " unidades, Total: $ "
-            + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+            + ValorTotalEmEstoque().ToString("C", CultureInfo.CurrentUICulture);
         }
     }
 }
