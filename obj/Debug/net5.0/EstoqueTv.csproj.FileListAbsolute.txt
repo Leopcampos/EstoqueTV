@@ -1,0 +1,24 @@
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\bin\Debug\net5.0\EstoqueTv.exe
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\bin\Debug\net5.0\EstoqueTv.deps.json
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\bin\Debug\net5.0\EstoqueTv.runtimeconfig.json
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\bin\Debug\net5.0\EstoqueTv.runtimeconfig.dev.json
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\bin\Debug\net5.0\EstoqueTv.dll
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\bin\Debug\net5.0\ref\EstoqueTv.dll
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\bin\Debug\net5.0\EstoqueTv.pdb
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\obj\Debug\net5.0\EstoqueTv.csproj.AssemblyReference.cache
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\obj\Debug\net5.0\EstoqueTv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\obj\Debug\net5.0\EstoqueTv.AssemblyInfoInputs.cache
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\obj\Debug\net5.0\EstoqueTv.AssemblyInfo.cs
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\obj\Debug\net5.0\EstoqueTv.csproj.CoreCompileInputs.cache
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\obj\Debug\net5.0\EstoqueTv.dll
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\obj\Debug\net5.0\ref\EstoqueTv.dll
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\obj\Debug\net5.0\EstoqueTv.pdb
+D:\Estudo e Faculdade\Udemy\C# Projetos\EstoqueTv\obj\Debug\net5.0\EstoqueTv.genruntimeconfig.cache
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\EstoqueTv.csproj.AssemblyReference.cache
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\EstoqueTv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\EstoqueTv.AssemblyInfoInputs.cache
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\EstoqueTv.AssemblyInfo.cs
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\EstoqueTv.csproj.CoreCompileInputs.cache
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\EstoqueTv.dll
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\ref\EstoqueTv.dll
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\EstoqueTv.pdb
