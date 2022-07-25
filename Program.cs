@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ﻿using System;
-=======
-=======
->>>>>>> 1ece7af0fb6bab0747dec61d57698dc1737f4612
-using System;
->>>>>>> 1ece7af0fb6bab0747dec61d57698dc1737f4612
 using System.Globalization;
 
 namespace EstoqueTv
@@ -25,18 +18,20 @@ namespace EstoqueTv
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
-            Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
-            int qte = int.Parse(Console.ReadLine());
-            p.AdicionarProdutos(qte);
-            Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);
-            Console.WriteLine();
-            Console.Write("Digite o número de produtos a ser removido do estoque: ");
-            qte = int.Parse(Console.ReadLine());
-            p.RemoverProdutos(qte);
+            //Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
+            //int qte = int.Parse(Console.ReadLine());
+            //p.AdicionarProdutos(qte);
+            //Console.WriteLine();
+            //Console.WriteLine("Dados atualizados: " + p);
+            //Console.WriteLine();
+            //Console.Write("Digite o número de produtos a ser removido do estoque: ");
+            //qte = int.Parse(Console.ReadLine());
+            //p.RemoverProdutos(qte);
 
-            Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);
+            //Console.WriteLine();
+            //Console.WriteLine("Dados atualizados: " + p);
+
+            p.Opcoes();
         }
     }
 }

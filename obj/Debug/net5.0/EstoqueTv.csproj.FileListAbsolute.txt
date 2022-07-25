@@ -22,3 +22,11 @@ C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\EstoqueTv.csproj.Core
 C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\EstoqueTv.dll
 C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\ref\EstoqueTv.dll
 C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\EstoqueTv.pdb
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\bin\Debug\net5.0\EstoqueTv.exe
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\bin\Debug\net5.0\EstoqueTv.deps.json
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\bin\Debug\net5.0\EstoqueTv.runtimeconfig.json
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\bin\Debug\net5.0\EstoqueTv.runtimeconfig.dev.json
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\bin\Debug\net5.0\EstoqueTv.dll
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\bin\Debug\net5.0\EstoqueTv.pdb
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\refint\EstoqueTv.dll
+C:\Users\LPCAMPOS\Downloads\Dev\EstoqueTv\obj\Debug\net5.0\EstoqueTv.genruntimeconfig.cache
